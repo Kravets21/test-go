@@ -4,9 +4,9 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**First** | Pointer to **NullableString** | The URI to the first page of the results. | [optional] 
-**Last** | Pointer to **NullableString** | The URI to the last page of the results. | [optional] 
-**Prev** | Pointer to **NullableString** | The URI to the previous page of the results. | [optional] 
+**First** | Pointer to **NullableString** | The URI to the first page of the results.d | [optional] 
+**Last** | Pointer to **NullableString** | The URI to the last page of the results.sd | [optional] 
+**Prev** | Pointer to **NullableString** | The URI to the previous page of the results. a | [optional] 
 **Next** | Pointer to **NullableString** | The URI to the next page of the results. | [optional] 
 
 ## Methods
