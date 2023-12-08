@@ -19,11 +19,11 @@ var _ MappedNullable = &CollectionLinks{}
 
 // CollectionLinks The links are related to resource pagination.
 type CollectionLinks struct {
-	// The URI to the first page of the results.
+	// The URI to the first page of the results.d
 	First NullableString `json:"first,omitempty"`
-	// The URI to the last page of the results.
+	// The URI to the last page of the results.sd
 	Last NullableString `json:"last,omitempty"`
-	// The URI to the previous page of the results.
+	// The URI to the previous page of the results. a
 	Prev NullableString `json:"prev,omitempty"`
 	// The URI to the next page of the results.
 	Next NullableString `json:"next,omitempty"`
